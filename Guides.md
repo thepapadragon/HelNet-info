@@ -20,7 +20,8 @@ This is a terminal you deploy into a channel. Users can use this terminal to set
 
 ### Time Suggestions
 Only people with their time preferences set can use this. There are 2 ways to use this:
-* Method 1 - When suggesting a time, include "!" right before the suggestion. Example: `Let's play at !5pm`
+* Method 1 - When suggesting a time, include "!" right before the suggestion. Example: `Let's play at !5pm`<img width="333" height="283" alt="image" src="https://github.com/user-attachments/assets/4b60080e-0130-496a-b19b-f5fcc6a2a8ec" />
+
 * Method 2 - Find a message with a time in it. Example: `Let's play at 5pm` -> Long press/right click -> apps -> HelNet -> Time Suggest (The original sender must have their time preferences set)
 
 ## Division Module
