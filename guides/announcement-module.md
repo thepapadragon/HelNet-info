@@ -30,10 +30,11 @@ Requires **Mention Everyone** permission.
    - **Header Style** (if the preset has multiple headers, pick one)
    - **Custom Image** (optional upload, appears between the header and title)
 3. Submit — the announcement posts to the current channel with your header image, content, role pings, footer image, and author credit
+<img width="530" height="653" alt="image" src="https://github.com/user-attachments/assets/7085e397-499a-4c6b-b539-c2d3da0a2bcf" />
 
 ### Edit an Announcement
 
 If you have sent an announcement already and notice a typo, fear not, there is a way to edit it. Only announcements under 48 hrs old can be edited, and only by the original sender.
-```Right click/long press on an announcement -> Apps -> HelNet -> Announcement Edit```
+* how too - ```Right click/long press on an announcement -> Apps -> HelNet -> Announcement Edit```
 
-<img width="530" height="653" alt="image" src="https://github.com/user-attachments/assets/7085e397-499a-4c6b-b539-c2d3da0a2bcf" />
+
