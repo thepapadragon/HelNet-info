@@ -2,5 +2,6 @@
 
 ## Getting started
 Commands:
-* `/setup server` - Set the color of your server (More soon!)
+* `/setup server`
+  * Server Color - This changes accent colors on embeds to match your server theme
 * `/setup modules` - Turn features on (All are off by default)
