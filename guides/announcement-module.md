@@ -27,7 +27,7 @@ Requires **Mention Everyone** permission.
 2. A form opens with:
    - **Title** (required)
    - **Content** (optional, markdown supported)
-   - **Header Style** (if the preset has multiple headers, pick one)
+   - **Banner Style** (if the preset has multiple headers and footers, pick one)
    - **Custom Image** (optional upload, appears between the header and title)
 3. Submit — the announcement posts to the current channel with your header image, content, role pings, footer image, and author credit
 <img width="530" height="653" alt="image" src="https://github.com/user-attachments/assets/7085e397-499a-4c6b-b539-c2d3da0a2bcf" />
