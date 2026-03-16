@@ -39,7 +39,7 @@ Welcome messages are configured per division through the Division Wizard.
 
 ---
 
-### /lookup
+### `/lookup`
 
 Look up division info for any member or division.
 
@@ -48,7 +48,7 @@ Look up division info for any member or division.
 
 ---
 
-### /division wizard (Admin)
+### `/division wizard` (Admin)
 
 The wizard is the admin control panel for everything division-related. Open it with `/division wizard`.
 
