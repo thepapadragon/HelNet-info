@@ -71,4 +71,4 @@ The wizard is the admin control panel for everything division-related. Open it w
 - **Terminal Image** — Optional banner shown at the top of the terminal
 - **Terminal Text** — Optional text shown below the image
 - **Max Divisions** — How many divisions a member can be in at once (1–10, default is 1)
-- **Default Rank Role** — A role automatically given when a member joins their first division
+- **Default Rank Role** — An optional role automatically given when a member joins their first division. Different from a division role.
